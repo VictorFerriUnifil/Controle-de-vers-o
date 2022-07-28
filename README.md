@@ -1,2 +1,2 @@
 # Controle-de-vers-o
-algo
+Será estudado controle de versões baseados em git e github
